@@ -1,6 +1,6 @@
 {
     "name": "for-wintercms/wn-default-theme",
-    "type": "winter-plugin",
+    "type": "winter-theme",
     "description": "A simple default theme using the Toolbox plugin for Winter CMS",
     "homepage": "https://github.com/for-wintercms/wn-default-theme",
     "keywords": ["winter", "wintercms", "theme", "default"],
